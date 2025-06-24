@@ -1,0 +1,6 @@
+Hello, I am baymax
+your personal healthcare companion
+I was programmed to understand your emotions and determine the diagnosis to heal you.
+I will scan you now
+Scan Complete.
+This is a new line of text.

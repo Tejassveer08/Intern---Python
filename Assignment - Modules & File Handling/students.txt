@@ -1,0 +1,10 @@
+Alice,22
+Bob,20
+Charlie,23
+David,19
+Eva,21
+Frank,22
+Grace,20
+Helen,24
+Ivan,23
+Judy,19
